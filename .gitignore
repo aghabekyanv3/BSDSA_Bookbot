@@ -1,0 +1,9 @@
+/api.py
+/gpt_api.py
+/__pycache__
+/old_df
+/unprocessed_data
+/new.ipynb
+/i_give_up.ipynb
+/user_item_matrix.csv
+/__init__.py
